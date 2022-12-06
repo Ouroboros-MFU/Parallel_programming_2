@@ -1,0 +1,18 @@
+500
+Calculation time for 500*500 matrix = 0.153012 seconds
+750
+Calculation time for 750*750 matrix = 0.490994 seconds
+1000
+Calculation time for 1000*1000 matrix = 1.73048 seconds
+1250
+Calculation time for 1250*1250 matrix = 3.73348 seconds
+1500
+Calculation time for 1500*1500 matrix = 6.4926 seconds
+1750
+Calculation time for 1750*1750 matrix = 10.5328 seconds
+2000
+Calculation time for 2000*2000 matrix = 17.4932 seconds
+2250
+Calculation time for 2250*2250 matrix = 25.5413 seconds
+2500
+Calculation time for 2500*2500 matrix = 26.6106 seconds

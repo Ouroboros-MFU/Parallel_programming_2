@@ -1,0 +1,9 @@
+500 True
+750 True
+1000 True
+1250 True
+1500 True
+1750 True
+2000 True
+2250 True
+2500 True
